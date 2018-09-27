@@ -1,9 +1,12 @@
 var isPP = function(n){
 
-    
+    console.log(Math.floor(Math.sqrt(n)));
+
     return null; // fix me
   }
 
+
+  console.log(isPP(11));
   /*
   Test.describe("perfect powers", function(){
   Test.it("should work for some examples",function(){
