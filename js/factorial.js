@@ -11,4 +11,4 @@ return nFac;
 }
 
 
-fac(1);
+fac(6);
